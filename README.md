@@ -1,6 +1,6 @@
-- 👋🏾 Hi, I’m @OnyekauzO
+- 👋🏾 Hi, I’m Onyeka Uzochukwu
 - 👀 I’m interested in Web technologies like HTML, css and Javascript
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on any Web tech projects that include HTML, css and Javascript
 - 📫 How to reach me: Email: onyeka.uzi@outlook.com
 
